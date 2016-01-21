@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <repositories encoding="UTF-8" version="1.1">
   <repo priority="50" quality="experimental">
-    <name>GBD.Gentoo.Overlay</name>
+    <name>GBD-Gentoo-Overlay</name>
     <description>Custom overlay for Gentoo</description>
     <homepage>https://github.com/grbd/GBD.Gentoo.Overlay</homepage>
     <owner>
